@@ -1,4 +1,31 @@
-<h4>Implemnting Machine Learning using PySpark</h4>
+<h4>Data Desciption</h4>:
+<ul>
+<li><b>age</b>: continuous</li
+<li>workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked</li>
+<li><b>fnlwgt</b>: continuous.</li>
+<li><b>education</b>: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 
+9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool</li>
+<li><b>education-num</b>: continuous</li>
+<li><b>marital-status</b>: Married-civ-spouse, Divorced, Never-married, Separated, Widowed,
+Married-spouse-absent, Married-AF-spouse</li>
+<li><b>occupation</b>: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Profspecialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, 
+Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces</li>
+<li><b>relationship</b>: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried</li>
+<li><b>race</b>: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black</li>
+<li><b>sex</b>: Female, Male</li>
+<li><b>capital-gain</b>: continuous</li>
+<li><b>capital-loss</b>: continuous</li>
+<li><b>hours-per-week</b>: continuous</li>
+<li><b>native-country</b>: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
+Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, 
+Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, 
+Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, 
+Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, 
+Holand-Netherlands</li>
+<li><b>income</b>: >50K, <=50K</li>
+</ul>
+
+<h4>Task Performed</h4>
 <ol>
 <li>Load data using PySpark</li>
 <li>Data Preprocessing</li>
